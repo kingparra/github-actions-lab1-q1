@@ -16,7 +16,7 @@ jobs:
     - name: Clone Github Repo Action
       uses: actions/checkout@v4.2.2
       with:
-        repository: github-actions-lab1-q1
+        repository: kingparra/github-actions-lab1-q1
 
     - name: Install dependencies
       run: |
